@@ -1,0 +1,33 @@
+<h1> <strong> DINI ZINATOU 2110213548 </strong></h1>
+<h2> Homework 1 question 1 </h2>
+<h3> link to another site </h3>
+<h4> this link will direct you to our  Karabuk University's computer engineering page </h4>
+    <a href="https://muh.karabuk.edu.tr/bilgisayar-en">Computer Engineering</a>
+
+    <h2> Homework 1 question 1 </h2>
+    <h3> Link to an anchor </h3>
+    <a href="#contact">check conctact</a>
+    <p id="contact">
+        +903704187050  <br>
+        <a href="bilgisayar@karabuk.edu.tr"></a>bilgisayar@karabuk.edu.tr <br> 
+    </p>   
+
+<h2> Homework 1 question 1 </h2>
+<h3> link to a page on the same site </h3>
+<a href="https://muh.karabuk.edu.tr/icerikGoster.aspx?K=S&id=270&BA=bilgisayar-en"> contacts</a>
+
+<h2> Homework 1 question 2 </h2>
+<h3> link that dials a number </h3>
+<a href="tel:+903704187050">Contact us +90 (370) 418-7050</a>
+<h2> Homework 1 question 2 </h2>
+<h3> link that runs Javascript </h3>
+<a href="#" onclick="alert('you are running a javascript code');">Click here</a>
+
+<h2> Homework 1 question 2 </h2>
+<h3> link that runs an email client </h3>
+<a href="mailto:bilgisayar@karabuk.edu.tr">Send your email using this link</a>
+
+<h2> Homework 1 question 2 </h2>
+<h3> link to open the link in a new tab </h3>
+
+<a href="https://muh.karabuk.edu.tr/icerikGoster.aspx?K=S&id=270&BA=bilgisayar-en" target="_blank">go to contact</a>

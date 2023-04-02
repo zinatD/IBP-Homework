@@ -1,0 +1,19 @@
+<h1> <strong> DINI ZINATOU 2110213548 </strong></h1>
+<h2> Homework 2 </h2>
+<h3> Adding image and color to a content in html</h3>
+<body style="background-color: gainsboro;">
+<p>Split-leaf philodendron, Swiss cheese plant, or windowleaf (Monstera deliciosa) is a tropical plant native to rainforests of Central America from southern Mexico to Panama, and commonly grown as a foliage houseplant.<br>
+It was introduced into cultivation in England in 1752. It is the only ornamental aroid also grown for its fruit. In spite of its common name, it is not a member of the genus Philodendron (it was formerly classified in that genus) but is in the same family (Araceae).<br>
+It has glossy, heart-shaped or rounded leathery leaves that develop deep clefts and oblong perforations as they grow older. The leaves may be as much as 18” wide on foot-long leafstalks. The cultivars ‘Variegata’ and ‘Albovariegata’ have variegated foliage, and the leaves tend to be somewhat smaller than the species.<br>
+<img src="https://farmingtongardens.com/wp-content/uploads/2020/01/AdobeStock_145420462-980x655.jpeg" alt="picture of a split-leaf philodendron aslo know as swiss-cheese plant or Monstera deliciosa" title="Monstera deliciosa" width="500" height="300" style="display:block; margin:auto;"> 
+</p>
+
+<h2> ...</h2>
+<h3> image map in html</h3>
+<img src="path/to/0-1-640x427.jpg" alt="some indoors plants" usemap="#indooorsPlants-map">
+<map name="indooorsPlants-map">
+    <area shape="rect" coords="0,0,100,100" href="https://www.evertricks.com/10-beautiful-unique-indoor-house-plants-that-are-super-easy-to-take-care-of/">
+    <area shape="circle" coords="150,150,50" href="https://www.evertricks.com/10-beautiful-unique-indoor-house-plants-that-are-super-easy-to-take-care-of/">
+  </map>
+
+</body>
